@@ -1,0 +1,5 @@
+ 
+packages:
+- 'packages/**' # 存放编写组件的
+- docs # 存放文档的
+- playground # 测试组件的
